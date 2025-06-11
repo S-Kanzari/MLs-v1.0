@@ -3,15 +3,6 @@ Machine Learning for Regression Analysis
 
 MLs v1.0
 
-Table of Contents
-1.	Overview
-2.	System Requirements
-3.	Installation
-4.	Input Data Format
-5.	Model Descriptions
-6.	Output Files
-7.	Performance Metrics
-
 1. Overview
 This tool performs predictive modeling using:
 •	Regression Trees (RT)
@@ -35,8 +26,8 @@ text
 pandas, numpy, matplotlib, scikit-learn, openpyxl
 
 3. Installation
-1.	Install Python from python.org
-2.	Install required packages:
+Install Python from python.org
+Install required packages:
 bash
 •  pip install pandas numpy matplotlib scikit-learn openpyxl
 •  Download the script file (predictive_modeling.py)
