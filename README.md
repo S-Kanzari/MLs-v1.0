@@ -76,4 +76,11 @@ model_results.xlsx	Contains:
 R²		
 RMSE		
 MAE				
-Nash-Sutcliffe				
+Nash-Sutcliffe			
+
+
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15638616.svg)](https://doi.org/10.5281/zenodo.15638616)
+
+
